@@ -6,7 +6,7 @@
 ### 📬 Contato
 
 - Email: allanmcnunes2017@gmail.com  
-- LinkedIn: allanmcnunes  
+- LinkedIn: Allan Nunes  
 - Instagram: allanmcnunes  
 - Facebook: allanmcnunes  
 - GitHub: allanmcnunes
