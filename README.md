@@ -43,24 +43,6 @@ Sou um entusiasta da tecnologia e estou aprendendo desenvolvimento web por conta
 
 ---
 
-### 🧪 Projetos Pessoais
-
-- Página de portfólio pessoal  
-- Calculadora simples com JavaScript  
-- Página de login com validação básica  
-- Cronômetro e relógio digital  
-- To-do list com HTML, CSS e JavaScript
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanmcnunes&show_icons=true&theme=dracula" alt="Allan's GitHub stats" />
-</p>
-
----
-
 ### 💬 Frase que me inspira
 
 > "Você não precisa ser ótimo para começar, mas precisa começar para ser ótimo." – Zig Ziglar
